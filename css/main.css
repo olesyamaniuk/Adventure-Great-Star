@@ -1138,7 +1138,7 @@ a {
     text-decoration: none;
     margin: auto;
   }
-  / .contact-img-phone {
+  .contact-img-phone {
     display: none;
   }
   .contact-img-desk {
